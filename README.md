@@ -13,13 +13,10 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Machine Learning(ML) Micro Projects
 
 	- [ML Micro Project - Diabetes Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20Diabetes%20Prediction): pass
-	_Tools: NLTK, scikit_
 
 	- [ML Micro Project - Sonar Rock vs Mine Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20Sonar%20Rock%20vs%20Mine%20Prediction): pass
-	_Tools: NLTK, scikit_
 
 	- [ML Micro Project - House Price Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20House%20Price%20Prediction): pass
-	_Tools: NLTK, scikit_
 	
 
 - ### Deep Learning(DL) Projects
