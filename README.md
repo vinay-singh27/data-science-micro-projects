@@ -24,6 +24,6 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Deep Learning(DL) Projects
 
 	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project(pytorch)%20-%20NYC%20Taxi%20Fare%20Prediction): pass
-	_Tools: NLTK, scikit_
+	_Tools: 
 
 If you want to connect to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at vinaysin27@gmail.com 
