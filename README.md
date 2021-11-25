@@ -20,6 +20,10 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [ML Micro Project - House Price Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20House%20Price%20Prediction): pass
 	
+- ### Natural Language Processing(NLP) Micro Projects
+
+	- [ML Micro Project - Fake News Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20Diabetes%20Prediction): pass
+
 
 - ### Deep Learning(DL) Projects
 
