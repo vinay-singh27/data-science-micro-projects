@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### [ML Models with Mini Project](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
 
-	- Focused on implementation of Machine Learning Models on sample data. The aim of these mini projects is to perform basic EDA on the data and implement the ML model to understand the fit and evaluate its performance
+	- Focused on implementation of Machine Learning Models on sample data. The aim of these mini projects is to perform basic EDA on the data and implement the ML model to understand the fit and evaluate its performance 
 
 	_Models & tools: Linear Regression, Logistic Regression, kNN, Decision Tree, Random Forest, scikit-learn, Pandas, Seaborn, Matplotlib,  
 	
