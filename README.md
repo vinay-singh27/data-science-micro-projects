@@ -13,6 +13,16 @@ Repository containing portfolio of data science projects completed by me for aca
 	*_Tools & libraries: scikit-learn, Pandas, Seaborn, Matplotlib*
 	
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- ### [Visualization](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
+
+	- Focused on creating visualizations to perform EDA in Machine Learning Models
+	
+	*_Tools & libraries: Seaborn, Matplotlib, Plotly, Cufflinks*
+	
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+	
 	
 - ### Machine Learning(ML) Micro Projects
 
@@ -32,9 +42,9 @@ Repository containing portfolio of data science projects completed by me for aca
 	
 	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-- ### Natural Language Processing(NLP) Micro Projects
+- ### Natural Language Processing(NLP)  Projects
 
 	- [ML Micro Project - Fake News Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20Diabetes%20Prediction): pass
 
