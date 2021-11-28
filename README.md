@@ -20,7 +20,11 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Deep Learning(DL) Projects
 
-	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project(pytorch)%20-%20NYC%20Taxi%20Fare%20Prediction): pass
+	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project(pytorch)%20-%20NYC%20Taxi%20Fare%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
+
+	- - [DL Project(pytorch) - Income Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Income%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
+
+
 	
 	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
 
