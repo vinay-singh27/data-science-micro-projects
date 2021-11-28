@@ -42,4 +42,4 @@ Repository containing portfolio of data science projects completed by me for aca
 	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
 
 
-If you want to connect to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at vinaysin27@gmail.com 
+If you want to connect to have a chat with me about the portfolio or collaboration, shoot an email at vinaysin27@gmail.com 
