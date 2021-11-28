@@ -14,28 +14,26 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [ML Micro Project - House Price Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20House%20Price%20Prediction): Predict the price of the house using Boston House Price dataset. Have used LGBM model and implemented hyper-parameter tuning Optuna. The code is modularized for deployment.
 
-	*_Tools & libraries: scikit-learn, Pandas, Seaborn, Matplotlib, Optuna*
+	*_Tools & libraries: scikit-learn, Numpy, Pandas, Seaborn, Matplotlib, Optuna*
 	
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ### Deep Learning(DL) Projects
 
-	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project(pytorch)%20-%20NYC%20Taxi%20Fare%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
+	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20NYC%20Taxi%20Fare%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
 
-	- - [DL Project(pytorch) - Income Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Income%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
-
-
+	- [DL Project(pytorch) - Income Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Income%20Prediction): Trained a binary classifier model to predict if an individual earns >$50k. Have used NN model as classifier. The code is modularized for deployment.
 	
-	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
+	_Tools & libraries: torch, Numpy, Pandas, Seaborn, Matplotlib*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ### Natural Language Processing(NLP)  Projects
 
-	- [ML Micro Project - Fake News Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Micro%20Project%20-%20Diabetes%20Prediction): pass
+	- [ML Micro Project - Fake News Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/NLP%20Project%20-%20Fake%20News%20Prediction): Train a classifer to predict whether an article is fake or not using only the article title.
 
 
-	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
+	_Tools & libraries: spacy, NLTK, scikit-learn, Numpy, Pandas, Seaborn, Matplotlib*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
