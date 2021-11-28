@@ -5,24 +5,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ## Contents(WIP)
-
-- ### [ML Models with Mini Project](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
-
-	- Focused on implementation of Machine Learning Models on sample data. The aim of these mini projects is to perform basic EDA on the data and implement the ML model to understand the fit and evaluate their performance
-	
-	*_Tools & libraries: scikit-learn, Pandas, Seaborn, Matplotlib*
-	
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-- ### [Visualization](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
-
-	- Focused on creating visualizations to perform EDA in Machine Learning Models
-	
-	*_Tools & libraries: Seaborn, Matplotlib, Plotly, Cufflinks*
-	
------------------------------------------------------------------------------------------------------------------------------------------------------
-	
 	
 - ### Machine Learning(ML) Micro Projects
 
@@ -51,5 +33,22 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	_Tools & libraries: torch, Pandas, Seaborn, Matplotlib*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+- ### [ML Models with Mini Project](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
+
+	- Focused on implementation of Machine Learning Models on sample data. The aim of these mini projects is to perform basic EDA on the data and implement the ML model to understand the fit and evaluate their performance
+	
+	*_Tools & libraries: scikit-learn, Pandas, Seaborn, Matplotlib*
+	
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- ### [Visualization](https://github.com/vinay-singh27/data-science-portfolio/tree/main/ML%20Models%20with%20Mini%20Projects)
+
+	- Focused on creating visualizations to perform EDA in Machine Learning Models. Have implemented functional & OOP approach to plot.
+	
+	*_Tools & libraries: Seaborn, Matplotlib, Plotly, Cufflinks*
+	
 
 If you want to connect to have a chat with me about the portfolio or collaboration, shoot an email at vinaysin27@gmail.com 
