@@ -20,9 +20,13 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Deep Learning(DL) Projects
 
-	- [DL Project(pytorch) - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20NYC%20Taxi%20Fare%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
+	- [DL Project - NYC Taxi Fare Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20NYC%20Taxi%20Fare%20Prediction): Predict taxi fare using the NYC Taxi Fare dataset. Have trained a Neural Network model using pytorch to predict the fare using the avaiable coordinates data. The code is modularized for deployment.
 
-	- [DL Project(pytorch) - Income Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Income%20Prediction): Trained a binary classifier model to predict if an individual earns >$50k. Have used NN model as classifier. The code is modularized for deployment.
+	- [DL Project- Income Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Income%20Prediction): Trained a binary classifier model to predict if an individual earns >$50k. Have used NN model as classifier. The code is modularized for deployment.
+
+	- [DL Project- Alcohol Sales Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Alcohol%20Sales%20Prediction(LSTM)): Trained a LSTM model to forecast future alcohol sales.
+
+	- - [DL Project- CIFAR](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20CIFAR): Trained a CNN Network on CIFAR dataset.
 	
 	_Tools & libraries: torch, Numpy, Pandas, Seaborn, Matplotlib*
 
