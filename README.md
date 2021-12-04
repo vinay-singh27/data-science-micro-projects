@@ -26,7 +26,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [DL Project- Alcohol Sales Prediction](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20Alcohol%20Sales%20Prediction(LSTM)): Trained a LSTM model to forecast future alcohol sales.
 
-	- - [DL Project- CIFAR](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20CIFAR): Trained a CNN Network on CIFAR dataset.
+	- [DL Project- CIFAR](https://github.com/vinay-singh27/data-science-portfolio/tree/main/DL%20Project%20-%20CIFAR): Trained a CNN Network on CIFAR dataset.
 	
 	_Tools & libraries: torch, Numpy, Pandas, Seaborn, Matplotlib*
 
