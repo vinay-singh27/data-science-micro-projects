@@ -1,5 +1,5 @@
 *.py linguist-detectable=true
-*.ipynb linguist-detectable=true
+*.ipynb linguist-detectable=false
 *.yaml linguist-detectable=true
 *.json linguist-detectable=true
 
