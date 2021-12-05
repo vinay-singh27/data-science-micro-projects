@@ -10,7 +10,7 @@ setup(
     python_requires=">=3.7",
     install_requires=[
         'mtcnn==0.1.0',
-        'tensorflow==2.3.1',
+        'tensorflow==2.5.2',
         'keras==2.4.3',
         'keras-vggface==0.6',
         'keras_applications==1.0.8',
