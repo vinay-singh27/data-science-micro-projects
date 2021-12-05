@@ -5,6 +5,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ## Contents(WIP)
+
+- ### [Face Matching Web Application](https://github.com/vinay-singh27/data-science-portfolio/tree/main/Face%20Matching%20Web%20Application) : Face Matching Web Application using streamlit & DL
 	
 - ### Machine Learning(ML) Micro Projects
 
